@@ -1,2 +1,2 @@
 # PC1_Claudia
-file:///C:/Users/USER/Downloads/index.html
+https://claudiapomahuallca.github.io/PC1_Claudia/
